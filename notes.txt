@@ -1,1 +1,1 @@
-If it complains about "no upstream", paste the message and we'll fix it.
+If it complains about "no upstream".
