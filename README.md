@@ -1,3 +1,3 @@
 This is a practice readme file.
 
-# Doing my 1st commit
+Learning  with the help of claude code.
